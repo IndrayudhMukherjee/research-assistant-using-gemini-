@@ -1,0 +1,17 @@
+# Python bytecode files
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+env/
+
+# IDE specific
+.vscode/
+.idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
